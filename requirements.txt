@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+python-dotenv==1.0.1
+SQLAlchemy==2.0.31
+matplotlib==3.8.4
+plotly==6.3.0
