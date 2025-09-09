@@ -2,7 +2,7 @@
 
 ## 1. Install packages
 ```bash
-pip install -r scripts/00_setup_env/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 2. Install sqlite3
